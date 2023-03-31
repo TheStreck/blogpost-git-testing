@@ -3,6 +3,14 @@ body{
     text-align: center; 
     padding: 20px
 }
+main{
+    width: 70%;
+    padding: 2px 1em;
+    margin: 0 auto
+}
+h1{
+    font-size: 40px;
+}
 h2{
     color: deeppink;
 }
