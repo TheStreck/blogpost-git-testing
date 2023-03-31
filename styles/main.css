@@ -8,8 +8,21 @@ main{
     padding: 2px 1em;
     margin: 0 auto
 }
+header{
+    margin-bottom: 35px;
+}
 h1{
-    font-size: 40px;
+    font-size: 32px;
+    display: flex;
+    align-items: center;
+    background-color: deeppink;
+    color: #eee;
+    padding: .7rem 1rem;
+    box-shadow: 2px 2px 5px #000a;
+}
+h1 span{
+    font-size: .6em;
+    margin-left: 20px;
 }
 h2{
     color: deeppink;
