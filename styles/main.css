@@ -3,9 +3,12 @@ body{
     text-align: center; 
     padding: 20px
 }
-h1{
+h2{
     color: deeppink;
 }
 p{
     color: #222;
+}
+section{
+    margin-bottom: 40px;
 }
