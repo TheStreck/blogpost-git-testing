@@ -1,9 +1,10 @@
 body{
     background: #eee;   
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding: 20px
+    padding: 20px;
+    margin: 0;
 }
-main{
+.container{
     width: 70%;
     padding: 2px 1em;
     margin: 0 auto
@@ -29,7 +30,11 @@ h2{
 }
 p{
     color: #222;
+    padding: 0 8px;
 }
 section{
+    padding: 0 10px;
+}
+article{
     margin-bottom: 40px;
 }
