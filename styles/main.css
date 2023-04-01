@@ -16,7 +16,7 @@ h1{
     font-size: 32px;
     display: flex;
     align-items: center;
-    background-color: deeppink;
+    background-color: lightblue;
     color: #eee;
     padding: .7rem 1rem;
     box-shadow: 2px 2px 5px #000a;
@@ -26,7 +26,7 @@ h1 span{
     margin-left: 20px;
 }
 h2{
-    color: deeppink;
+    color: lightblue;
 }
 p{
     color: #222;
