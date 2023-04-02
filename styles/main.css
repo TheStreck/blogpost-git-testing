@@ -45,6 +45,10 @@ footer{
     text-align: center;
     margin-top: 30px;
 }
+footer p{
+    color: #eee;
+    font-size: .7rem;
+}
 footer h3 span{
     font-size: .8em;
 }
